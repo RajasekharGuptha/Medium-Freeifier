@@ -1,4 +1,4 @@
-## Read **Unlimited Premium** Posts In Medium. The headache of switching to Incognito is no more..
+## **Chrome Extension** that helps to read **Unlimited Premium** Posts In Medium. The headache of switching to Incognito is no more..
 
 
 ### Steps to add this extension to chrome

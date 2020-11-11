@@ -1,3 +1,6 @@
+## Read **Unlimited Premium** Posts In Medium. The headache of switching to Incognito is no more..
+
+
 ### Steps to add this extension to chrome
 
 * Clone this [Repo](https://github.com/RajasekharGuptha/Medium-Freeifier)
